@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'wkques4'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_53B5F9CC6CB549A5AF7ECE18B0C03B7B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_145BB8A2717A437DB7053F33D87B6500 }}
           package: .
